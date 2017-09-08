@@ -18,7 +18,7 @@ class Student(object):
     def set_score(self, score):
         self.__score = score
 student_list = []
-a = Student('li', 92)
+a = Student('li', 93)
 b = Student('xu', 94)
 c = Student('wu', 96)
 student_list.append(a)
